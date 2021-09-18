@@ -1,0 +1,5 @@
+"Ref","Qnty","Value","Cmp name","Footprint","Description","MPN","MPN2","MPN-DK","Vendor"
+"J2, ","1","Conn_02x20_Odd_Even","Conn_02x20_Odd_Even","Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical","Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)","SSW-120-01-T-D","","",""
+"J3, ","1","Barrel_Jack","Barrel_Jack_Switch","Connector_BarrelJack:BarrelJack_Horizontal","DC Barrel Jack with an internal switch","","","",""
+"Q1, ","1","BSS138","BSS138","Package_TO_SOT_SMD:SOT-23","50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23","BSS138","","",""
+"R1, R2, ","2","10k","R","Resistor_SMD:R_0603_1608Metric","Resistor","CR0603-JW-103ELF","","",""

@@ -1,0 +1,9 @@
+### Module positions - created on Sat Sep 18 13:42:16 2021 ###
+### Printed by Pcbnew version (5.99.0-11450-g1c1f7ac07e)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val          Package                                                        PosX       PosY       Rot  Side
+J1        Conn_01x03   TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal    40.7162   -33.2994    0.0000  top
+J3        Barrel_Jack  BarrelJack_Horizontal                                       34.4500   -33.1925    0.0000  top
+J4        USB_A        USB_A_Molex_67643_Horizontal                                61.9252   -30.1498    0.0000  top
+## End

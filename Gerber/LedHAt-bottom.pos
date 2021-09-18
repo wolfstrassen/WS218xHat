@@ -1,0 +1,10 @@
+### Module positions - created on Sat Sep 18 13:42:16 2021 ###
+### Printed by Pcbnew version (5.99.0-11450-g1c1f7ac07e)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                  Package                               PosX       PosY       Rot  Side
+J2        Conn_02x20_Odd_Even  PinSocket_2x20_P2.54mm_Vertical   -28.3700   -24.9700  -90.0000  bottom
+Q1        BSS138               SOT-23                            -41.7000   -28.5000  -90.0000  bottom
+R1        10k                  R_0603_1608Metric                 -39.2000   -31.0000    0.0000  bottom
+R2        10k                  R_0603_1608Metric                 -38.3000   -27.5000    0.0000  bottom
+## End
